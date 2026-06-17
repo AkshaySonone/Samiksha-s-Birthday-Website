@@ -1102,7 +1102,7 @@ body {
     .mewmew-corner {
         width: 180px;
         top: 10px;
-        left: 10px;
+        right: 10px;
     }
 
     .title .happy, .title .birthday {
