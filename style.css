@@ -216,7 +216,7 @@ body {
 
 @media (max-width: 768px) {
     .mewmew-corner {
-        width: 190px;
+        width: 240px;
     }
 }
 
@@ -1100,7 +1100,7 @@ body {
     }
 
     .mewmew-corner {
-        width: 170px;
+        width: 220px;
         top: 10px;
         right: 10px;
     }
@@ -1402,7 +1402,7 @@ body {
 
 @media screen and (max-width: 768px) and (min-width: 481px) {
     .mewmew-corner {
-        width: 170px;
+        width: 220px;
         top: 15px;
         right: 15px;
     }
@@ -1481,7 +1481,7 @@ body {
     }
 
     .mewmew-corner {
-        width: 180px;
+        width: 230px;
     }
 }
 
